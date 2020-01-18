@@ -29,7 +29,7 @@ namespace InfoWare.Models
         public double Price { get; set; }
 
         public int Quantitly { get; set; }
-
+        public string img { get; set; }
         public double? Offer { get; set; }
 
         public int BrandID { get; set; }
